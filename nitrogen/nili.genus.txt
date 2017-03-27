@@ -1,0 +1,91 @@
+GCF_000312705.1	Anabaena sp. 90
+GCF_000317695.1	Anabaena cylindrica PCC 7122
+GCF_001277295.1	Anabaena sp. wa102
+GCF_000010525.1	Azorhizobium caulinodans ORS 571
+GCF_000010725.1	Azospirillum sp. B510
+GCF_000283655.1	Azospirillum lipoferum 4B
+GCF_000632475.1	Azospirillum brasilense
+GCF_001305595.1	Azospirillum thiophilum
+GCF_001639105.1	Azospirillum humicireducens
+GCF_000011365.1	Bradyrhizobium diazoefficiens USDA 110
+GCF_000015165.1	Bradyrhizobium sp. BTAi1
+GCF_000026145.1	Bradyrhizobium sp. ORS 278
+GCF_000284275.1	Bradyrhizobium sp. S23321
+GCF_000284375.1	Bradyrhizobium japonicum USDA 6
+GCF_000296215.2	Bradyrhizobium sp. CCGE-LA001
+GCF_000344805.1	Bradyrhizobium oligotrophicum S58
+GCF_001693385.1	Bradyrhizobium icense
+GCF_900011245.1	Bradyrhizobium sp.
+GCF_001548455.1	Fischerella sp. NIES-3754
+GCF_000013345.1	Frankia casuarinae
+GCF_000018005.1	Frankia sp. EAN1pec
+GCF_000058485.1	Frankia alni ACN14a
+GCF_000166135.1	Frankia inefficax
+GCF_000177615.2	Frankia symbiont of Datisca glomerata
+GCF_000006805.1	Halobacterium salinarum NRC-1
+GCF_000230955.2	Halobacterium sp. DL1
+GCF_001488575.1	Halobacterium hubeiense
+GCF_000012725.1	Nitrobacter winogradskyi Nb-255
+GCF_000013885.1	Nitrobacter hamburgensis X14
+GCF_000012805.1	Nitrosococcus oceani ATCC 19707
+GCF_000024725.1	Nitrosococcus halophilus Nc 4
+GCF_000143085.1	Nitrosococcus watsonii C-113
+GCF_000009145.1	Nitrosomonas europaea ATCC 19718
+GCF_000014765.1	Nitrosomonas eutropha C91
+GCF_000175095.2	Nitrosomonas sp. AL212
+GCF_000219585.1	Nitrosomonas sp. Is79A3
+GCF_001007935.1	Nitrosomonas communis
+GCF_001455205.1	Nitrosomonas ureae
+GCF_000196355.1	Nitrosospira multiformis ATCC 25196
+GCF_000619905.2	Nitrosospira briensis C-128
+GCF_000196815.1	Nitrospira defluvii
+GCF_001273775.1	Nitrospira moscoviensis
+GCF_001458695.1	Candidatus Nitrospira inopinata
+GCF_000009705.1	Nostoc sp. PCC 7120
+GCF_000020025.1	Nostoc punctiforme PCC 73102
+GCF_000196515.1	'Nostoc azollae' 0708
+GCF_000316625.1	Nostoc sp. PCC 7107
+GCF_000316645.1	Nostoc sp. PCC 7524
+GCF_000009705.1	Nostoc sp. PCC 7120
+GCF_000020025.1	Nostoc punctiforme PCC 73102
+GCF_000196515.1	'Nostoc azollae' 0708
+GCF_000316625.1	Nostoc sp. PCC 7107
+GCF_000316645.1	Nostoc sp. PCC 7524
+GCF_000203895.1	Paracoccus denitrificans PD1222
+GCF_000444995.1	Paracoccus aminophilus JCM 7686
+GCF_000020265.1	Rhizobium etli CIAT 652
+GCF_000021345.1	Rhizobium leguminosarum bv. trifolii WSM2304
+GCF_000023185.1	Rhizobium leguminosarum bv. trifolii WSM1325
+GCF_000330885.1	Rhizobium tropici CIAT 899
+GCF_000442435.1	Rhizobium etli bv. mimosae str. Mim1
+GCF_000499645.1	Rhizobium sp. IRBG74
+GCF_000517605.1	Rhizobium leguminosarum bv. trifolii WSM1689
+GCF_000520875.1	Rhizobium leguminosarum bv. trifolii CB782
+GCF_000577275.1	Rhizobium favelukesii
+GCF_000698845.1	Rhizobium etli bv. mimosae str. IE4771
+GCF_000816845.1	Rhizobium gallicum bv. gallicum R602
+GCF_000967425.1	Rhizobium sp. NT-26
+GCF_001664085.1	Rhizobium sp. N1341
+GCF_001664485.1	Rhizobium sp. N324
+GCF_000015985.1	Rhodobacter sphaeroides ATCC 17029
+GCF_000016405.1	Rhodobacter sphaeroides ATCC 17025
+GCF_000021865.1	Rhodobacter capsulatus SB 1003
+GCF_000828835.1	Thioploca ingrica
+GCF_000967305.2	Alcaligenes faecalis
+GCF_000955905.1	Candidatus Nitrosotenuis cloacae
+GCF_000956175.1	Candidatus Nitrosopumilus adriaticus
+GCF_001458695.1	Candidatus Nitrospira inopinata
+GCF_000299395.1	Candidatus Nitrosopumilus sp. AR2
+GCF_000812185.1	Candidatus Nitrosopelagicus brevis
+GCF_000007705.1	Chromobacterium violaceum ATCC 12472
+GCF_000219215.1	Cupriavidus necator N-1
+GCF_000011085.1	Haloarcula marismortui ATCC 43049
+GCF_000008325.1	Methylococcus capsulatus str. Bath
+GCF_000730425.1	Pseudomonas fluorescens
+GCF_000006765.1	Pseudomonas aeruginosa PAO1
+GCF_000590475.1	Pseudomonas stutzeri
+GCF_000017205.1	Pseudomonas aeruginosa PA7
+GCF_000009285.1	Ralstonia eutropha H16
+GCF_000021865.1	Rhodobacter capsulatus SB 1003
+GCF_000010325.1	Nitratiruptor sp. SB155-2
+GCF_000186245.1	Nitratifractor salsuginis DSM 16511
